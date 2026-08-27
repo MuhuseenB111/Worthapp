@@ -74,3 +74,4 @@ credentials/
 # Miscellaneous
 *.tmp
 *.temp
+.env
